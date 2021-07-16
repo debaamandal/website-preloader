@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  
+.preloader{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.disppear{
+    animation: vanish 1.4s forwards;
+}
+  
+@keyframes vanish{
+    100%{
+      opacity: 0;
+      visibility: hidden;
+    }
+}
