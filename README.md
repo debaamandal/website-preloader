@@ -9,7 +9,7 @@
 
 <br />
 
-[instagram]: https://instagram.com/yohxwk/
-[twitter]: https://twitter.com/yohxwk
+[instagram]: https://instagram.com/devcmon/
+[twitter]: https://twitter.com/devcmon
 [youtube]: https://www.youtube.com/channel/UCLkE0v2bUmjUwU-stcJpksQ
-[website]: https://debaa.online/
+[website]: https://debaamandal.github.io/
